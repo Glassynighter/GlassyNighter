@@ -1,4 +1,4 @@
-# Hi there 👋, I’m GlassyNighter  
+# Hi there 👋, I’m David  
 
 I’m a **Software Engineering student** passionate about **technology, philosophy, and creativity**.  
 I enjoy building projects that connect logic and imagination — whether in code, research, or life.  
@@ -30,7 +30,6 @@ I enjoy building projects that connect logic and imagination — whether in code
 - **Git/GitHub** 🔧  
 
 ### 📖 Currently Exploring / Want to Learn  
-- **JavaScript & Node.js**  
 - **PostgreSQL**  
 - **Networking & System Design**  
 - **Advanced Software Testing**  
